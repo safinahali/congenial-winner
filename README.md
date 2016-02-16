@@ -1,2 +1,0 @@
-# ofxUI-ofxOpenCV
-# ofxUI-ofxOpenCV
