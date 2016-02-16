@@ -1,0 +1,1 @@
+This project is an integration of two ofx add-ons: ofx-OpenCV and ofx-UI. The integration can have multiple applications like UI overlays on live camera capture and direct manipulation by the user. 
